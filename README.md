@@ -15,9 +15,9 @@ ROS:
 1. http://wiki.ros.org/ROS/Tutorials
 1. http://wiki.ros.org/ROS/Tutorials/WhereNext  
   Some tutorials for sensor data visualization and robot simulation (Rviz most importantly)
-1. http://wiki.ros.org/Industrial/Tutorials (just Section 2.2 General)
-  1. http://wiki.ros.org/Industrial/Tutorials/Create_a_MoveIt_Pkg_for_an_Industrial_Robot
-  1. http://wiki.ros.org/Industrial/Tutorials/WorkingWithRosIndustrialRobotSupportPackages
+1. http://wiki.ros.org/Industrial/Tutorials (just Section 2.2 General)  
+  1. http://wiki.ros.org/Industrial/Tutorials/Create_a_MoveIt_Pkg_for_an_Industrial_Robot  
+  1. http://wiki.ros.org/Industrial/Tutorials/WorkingWithRosIndustrialRobotSupportPackages  
 1. https://industrial-training-master.readthedocs.io/en/kinetic/  
   Alternative set of introductory tutorials, specific for ROS-Industrial; some tutorials might be similar or the same as tutorials in item 1. and 2. and 3. 
 1. http://wiki.ros.org/Industrial/Industrial_Robot_Driver_Spec  
